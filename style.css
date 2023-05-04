@@ -68,4 +68,11 @@ h1 {
 }
 
 
+.row {
+    display: flex; 
 
+}
+
+.box {
+    border: #333 1px solid;
+}
